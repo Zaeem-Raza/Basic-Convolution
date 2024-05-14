@@ -1,8 +1,8 @@
-## This Python script performs image filtering operations using predefined kernels on an input image. Key points about the script:
+### This Python script performs image filtering operations using predefined kernels on an input image. Key points about the script:
 
-# Functionality
+### Functionality
 
-        The script applies various image filtering operations such as blur, edge detection, and sharpening.
+        ```The script applies various image filtering operations such as blur, edge detection, and sharpening.```
 
 # Kernel Application
 
